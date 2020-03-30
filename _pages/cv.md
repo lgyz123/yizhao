@@ -18,19 +18,21 @@ Education
   
 Skills
 ======
-*Technical
-  *Microsoft Office, C Language, Solid works (Design software).
-*Languages
-  *Native Chinese, Fluent in English (TOEFL 98 / GRE 324) and Japanese (JLPT N1 level).
-*Interests
-  *Basketball, Taichi (Martial Arts), Badminton, Guita
+* Technical
+  * Microsoft Office, C Language, Solid works (Design software).
+* Languages
+  * Native Chinese, Fluent in English (TOEFL 98 / GRE 324) and Japanese (JLPT N1 level).
+* Interests
+  * Basketball, Taichi (Martial Arts), Badminton, Guita
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
+<!
 #Talks
 #======
 #  <ul>{% for post in site.talks %}
@@ -46,3 +48,4 @@ Publications
 #Service and leadership
 #======
 #* Currently signed in to 43 different slack teams
+>
