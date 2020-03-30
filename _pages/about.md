@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 
-I am a master student of precision engineering department of the University of Tokyo, Japan. This is my first personal website.
-======
-check what does the -barrier mean.
+
+
+
+This is my personal website, please click the headers and you will know more about me.
