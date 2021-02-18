@@ -48,7 +48,7 @@ Scholarship
   
 You can also download my cv
 ======
-[My CV]<https://lgyz123.github.io/yizhao/files/GUAN CV.pdf>
+[My CV]<https://lgyz123.github.io/yizhao/files/GUAN.pdf>
 
 Interesting projects
 ======
