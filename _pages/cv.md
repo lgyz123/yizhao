@@ -19,11 +19,11 @@ Education
 Skills
 ======
 * Technical
-  * Microsoft Office, C Language, Solid works (Design software).
+  * Microsoft Office, C Language, Matlab, Python, Solid works (Design software),Blender.
 * Languages
   * Native Chinese, Fluent in English (TOEFL 98 / GRE 324) and Japanese (JLPT N1 level).
 * Interests
-  * Basketball, Taichi (Martial Arts), Badminton, Guita
+  * Basketball, Taichi (Martial Arts), Badminton, Guitar
 
 Publications
 ======
