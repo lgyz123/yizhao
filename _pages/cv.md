@@ -39,7 +39,12 @@ Internships&Works
   * Ministop, 2017.9-2018.10
 * 名校志向塾
 　* Application staff, 2020.3-
-  
+ 
+My Projects
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   
 You can also download my cv
 ======
