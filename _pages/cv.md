@@ -53,7 +53,7 @@ You can also download my cv
 Interesting projects
 ======
 1. LSTM prediction for infections in Covid19 (
-<https://lgyz123.github.io/yizhao/files/my projects/lstm for prediction>)
-2. Blender draw sword
-3. My FDTD
-4. Time Reverse of FDTD
+<https://github.com/lgyz123/my-projects/tree/main/my%20projects/lstm%20for%20prediction>)
+2. Blender draw sword(https://github.com/lgyz123/my-projects/tree/main/my%20projects/blender%20animate%20sword)
+3. My FDTD (https://github.com/lgyz123/my-projects/tree/main/my%20projects/my%20fdtd)
+4. Time Reverse of FDTD (https://github.com/lgyz123/my-projects/tree/main/my%20projects/time%20reverse%20fdtd)
