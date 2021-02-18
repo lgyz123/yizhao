@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello"
+title: "YIZHAO GUAN"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
