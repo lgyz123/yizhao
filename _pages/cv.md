@@ -42,12 +42,9 @@ Internships&Works
  
 Scholarship
 ======
- * President Fellowship of Tohoku University
-  * 2015-2019
+ * President Fellowship of Tohoku University (2015-2019)
  * Monbukagakusho Honors Scholarship for Privately-Financed International Students
-  * 2017-2019
- * 公益財団法人 住友電工グループ社会貢献基金
-  * 2020-2021
+ * 公益財団法人 住友電工グループ社会貢献基金 (2020-2021)
   
 You can also download my cv
 ======
