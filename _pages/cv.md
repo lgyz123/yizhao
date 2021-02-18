@@ -49,3 +49,11 @@ Scholarship
 You can also download my cv
 ======
 [My CV]<https://lgyz123.github.io/yizhao/files/GUAN CV.pdf>
+
+Interesting projects
+======
+1. LSTM prediction for infections in Covid19 (
+<https://lgyz123.github.io/yizhao/files/my projects/lstm for prediction>)
+2. Blender draw sword
+3. My FDTD
+4. Time Reverse of FDTD
