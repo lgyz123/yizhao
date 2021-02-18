@@ -1,11 +1,9 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
-collection: talks
-type: "Tutorial"
+title: "Machine learning prediction using LSTM in matlab for Covid-19 pandemic"
+collection: projects
+type: "Interesting try"
 permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+
 ---
 
 [More information here](http://exampleurl.com)
