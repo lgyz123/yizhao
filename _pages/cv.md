@@ -38,7 +38,7 @@ Internships&Works
 * Convenient store staff (part time job)
   * Ministop, 2017.9-2018.10
 * 名校志向塾
-　* Application staff, 2020.3-
+　* Application Tutor, 2020.3-
  
 Scholarship
 ======
