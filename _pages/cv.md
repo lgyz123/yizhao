@@ -56,3 +56,4 @@ Interesting projects
 2. Blender draw sword (<https://github.com/lgyz123/my-projects/tree/main/my%20projects/blender%20animate%20sword>)
 3. My FDTD (<https://github.com/lgyz123/my-projects/tree/main/my%20projects/my%20fdtd>)
 4. Time Reverse of FDTD (<https://github.com/lgyz123/my-projects/tree/main/my%20projects/time%20reverse%20fdtd>)
+5. Simple Molecular dynamics (<https://github.com/lgyz123/my-projects/tree/main/my%20projects/molecular%20dynamic>)
