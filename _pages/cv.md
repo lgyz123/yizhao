@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,7 +15,7 @@ Education
 * Bachelor Degree in Tohoku University, September 2019
 * M.S. in the University of Tokyo, 2021 (expected)
 
-  
+
 Skills
 ======
 * Technical
@@ -39,13 +39,13 @@ Internships&Works
   * Ministop, 2017.9-2018.10
 * 名校志向塾, 2020-
 　
- 
+
 Scholarship
 ======
  * President Fellowship of Tohoku University (2015-2019)
  * Monbukagakusho Honors Scholarship for Privately-Financed International Students
  * 公益財団法人 住友電工グループ社会貢献基金 (2020-2021)
-  
+
 You can also download my cv
 ======
 [My CV]<https://lgyz123.github.io/yizhao/files/GUAN.pdf>
