@@ -42,13 +42,14 @@ Internships&Works
 * 名校志向塾, 2020-
 　
 
-Scholarship
+Scholarship and Awards
 ======
  * President Fellowship of Tohoku University (2015-2019)
  * Monbukagakusho Honors Scholarship for Privately-Financed International Students
  * 公益財団法人 住友電工グループ社会貢献基金 (2020-2021)
  * SEUT-RA (2021)
  * JSPS DC1 (2022-2024)
+ * Outstanding graduation thesis award(修士論文優秀賞)
 
 You can also download my cv
 ======
