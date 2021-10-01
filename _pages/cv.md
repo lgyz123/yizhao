@@ -13,7 +13,9 @@ Education
 ======
 * High School Afflicted to China Fudan University,August 2015
 * Bachelor Degree in Tohoku University, September 2019
-* M.S. in the University of Tokyo, 2021 (expected)
+* M.S. in the University of Tokyo, 2021 
+* PhD in the University of Tokyo, 2024(expected) 
+
 
 
 Skills
@@ -45,6 +47,8 @@ Scholarship
  * President Fellowship of Tohoku University (2015-2019)
  * Monbukagakusho Honors Scholarship for Privately-Financed International Students
  * 公益財団法人 住友電工グループ社会貢献基金 (2020-2021)
+ * SEUT-RA (2021)
+ * JSPS DC1 (2022-2024)
 
 You can also download my cv
 ======
