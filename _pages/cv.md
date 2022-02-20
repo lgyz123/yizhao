@@ -39,7 +39,7 @@ Internships&Works
   * 技術本部(R&D department) ,2019.9. Hiroshima, learning the jointing technology of different metals
 * Convenient store staff (part time job)
   * Ministop, 2017.9-2018.10
-* 名校志向塾, 2020-
+* 名校志向塾, 2020.3 - 2022.2
 　
 
 Scholarship and Awards
