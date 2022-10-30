@@ -50,6 +50,7 @@ Scholarship and Awards
  * SEUT-RA (2021)
  * JSPS DC1 (2022-2024)
  * Outstanding graduation thesis award(修士論文優秀賞)
+ * Euspen talent programme 2022 certification of attendance
 
 You can also download my cv
 ======
