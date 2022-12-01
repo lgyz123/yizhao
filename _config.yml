@@ -86,7 +86,7 @@ author:
   location         : "Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%E7%AE%A1%E4%B8%80%E5%85%86&btnG="
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=2O38MIcAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

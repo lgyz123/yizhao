@@ -51,6 +51,7 @@ Scholarship and Awards
  * JSPS DC1 (2022-2024)
  * Outstanding graduation thesis award(修士論文優秀賞)
  * Euspen talent programme 2022 certification of attendance
+ * ASPEN 2022 Best Paper Award
 
 You can also download my cv
 ======
