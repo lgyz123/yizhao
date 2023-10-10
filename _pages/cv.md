@@ -51,6 +51,7 @@ Scholarship and Awards
  * Outstanding graduation thesis award(修士論文優秀賞)
  * Euspen talent programme 2022 certification of attendance
  * ASPEN 2022 Best Paper Award
+ * ISMTII 2023 Best Paper Award
 
 You can also download my cv
 ======
