@@ -26,8 +26,13 @@ Education
 
 Skills
 ======
-* Technical
-  * Microsoft Office, C Language, Matlab, Python, Solid works (Design software),Blender.
+* Software
+  * Microsoft Office, Solid works (Design software),Blender, Waveoptics simulations
+  * Coding: C Language, C++, Matlab, Python, Linux, Github, dev container, sklearn, pytorch
+* Hardware
+  * Measurements: Microscopy, AFM, SEM, interferometry
+  * Fabrication: Semiconductor process
+  * PC assemble and selection
 * Languages
   * Native Chinese, Fluent in English (TOEFL 98 / GRE 324) and Japanese (JLPT N1 level).
 * Interests
