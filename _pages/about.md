@@ -8,16 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal website, please click the headers and you will know more about me.
+
+This is my personal website.
 管の個人ウェブサイトです。
+
 ---
+Welcome to my personal website! Click on the headers to learn more about me.
 
-I am a doctor student in the University of Tokyo. My major is precision engineerging. I am now studying about super-resolution techinique related to plasmonic structured illumination microscopy and superlens. Previously I studied how to extract the depth information using Structured Illumination Microscope, which may be a good technology for observing micrograves on silicon wafer with several hundred nanometers width. My superviser is Satoru Takahashi, who is a professor teaching in Utokyo for many years.  I received my bachelor degree in Tohoku University and master degree in the University of Tokyo
-Lab link: http://www.photon.rcast.u-tokyo.ac.jp/english/index.html
+I work at Bosch as a software developer in Advanced Driver Assistance Systems (ADAS). Based in Japan, I collaborate with colleagues in Germany (DE) and Hungary (BP) on the development of safety-critical software. My current focus is on radar-and-video sensor fusion for vehicle perception.
+
+I hold a Doctor of Engineering degree from the University of Tokyo, where I majored in Precision Engineering. My doctoral research centered on super-resolution techniques—specifically structured illumination microscopy and superlenses. Prior to that, I investigated methods to extract depth information using structured illumination microscopy, a promising approach for observing microgrooves several hundred nanometers wide on silicon wafers. I obtained my Bachelor’s degree from Tohoku University and my Master’s degree from the University of Tokyo.
+
+Lab website:
+[Photonics and Optical Metrology Laboratory, University of Tokyo (English)](http://www.photon.rcast.u-tokyo.ac.jp/english/index.html)
+
+私の個人ウェブサイトへようこそ。ヘッダーをクリックすると、私についてさらに詳しくご覧いただけます。
+
+私は現在、Bosch（ボッシュ）で先進運転支援システム（ADAS）のソフトウェア開発者として勤務しています。日本を拠点に、ドイツ（DE）および`ハンガリー(BP)の同僚と連携し、安全性を最優先したソフトウェア開発に取り組んでいます。現在の担当領域は、自動車の周辺認識のためのレーダーと映像のフュージョン技術です。
+
+学歴としては、東京大学で工学博士（精密工学専攻）を取得しました。博士研究では、構造化照明顕微鏡とスーパーレンズを用いた超解像技術に取り組みました。それ以前は、構造化照明顕微鏡を用いて深度情報を抽出する手法を研究し、幅数百ナノメートルのマイクログルーブを有するシリコンウェハーの観察技術として有望であることを示しました。学士号は東北大学、修士号は東京大学で取得しました。
+
+研究室サイト：
+[東京大学 光計測学研究室](http://www.photon.rcast.u-tokyo.ac.jp/index.html)
 
 
-私は東京大学精密工学専攻の博士課程学生です。現在は、プラズモニック構造化照明顕微鏡とスーパーレンズに関連する超解像技術を研究しています。以前は、構造化照明顕微鏡を用いて深度情報を抽出する方法を研究しました。これは、幅数百ナノメートル程度のシリコンウエハー上のマイクログルーブを観察するのに適した技術であると考えられます。今の指導教員は高橋悟教授で、東京大学で長年教鞭をとられています。自分の学士号は東北大学から、修士号は東京大学から取得しました。
-
-ラボリンク
-http://www.photon.rcast.u-tokyo.ac.jp/index.html
 

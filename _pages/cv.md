@@ -9,12 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* Bosch corporation, 2024
+  * XC department ADAS software developer
+
+
 Education
 ======
 * High School Afflicted to China Fudan University,August 2015
 * Bachelor Degree in Tohoku University, September 2019
 * M.S. in the University of Tokyo, 2021 
-* PhD in the University of Tokyo, 2024(expected) 
+* PhD in the University of Tokyo, 2024
 
 
 
@@ -33,7 +39,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Internships&Works
+Internships&Partimes
 ======
 * Internship at Mazda Motor Corporation
   * 技術本部(R&D department) ,2019.9. Hiroshima, learning the jointing technology of different metals
